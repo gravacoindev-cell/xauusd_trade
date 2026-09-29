@@ -1,1 +1,1 @@
-# xauusd_trade
+# XAUUSD ANALYZER
